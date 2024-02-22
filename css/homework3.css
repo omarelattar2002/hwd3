@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+}
+
+.Griot{
+    color: white;
+    font: larger;
+}
+
+.hfomc {
+    display: flex;
+    padding-left: 300px;
+    justify-content: space-around;
+    text-decoration: none;
+}
+
+.nav {
+
+    background-color: black;
+    padding: 30px;
+}
+
+
+
+
+
+
