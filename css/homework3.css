@@ -2,9 +2,9 @@
     margin: 0;
 }
 
-.Griot{
-    color: white;
-    font: larger;
+.nav {
+    background-color: black;
+    padding: 30px;
 }
 
 .hfomc {
@@ -14,11 +14,25 @@
     text-decoration: none;
 }
 
-.nav {
 
-    background-color: black;
-    padding: 30px;
+.Griot{
+    color: white;
+    font: larger;
 }
+
+
+.img-container {
+    width: 100%;
+}
+
+
+.img-container img{
+    width: 100%;
+}
+
+
+
+
 
 
 
