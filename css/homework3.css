@@ -41,13 +41,26 @@
     margin: 400px;
     border: 1px solid gray;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
+    
+}
 
+.ttt {
+    display: flex;
+    flex-direction: column;
 }
 
 
-
-
+.below {
+    color: white;
+    grid-area: footer;
+    display: flex;
+    margin-top: 25px;
+    padding: 50px;
+    background-color: black;
+    justify-content: space-around;
+    align-items: center;
+}
 
 
 
