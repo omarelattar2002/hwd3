@@ -28,6 +28,7 @@
 
 .img-container img{
     width: 100%;
+    margin-bottom: 100px;
 }
 
 
@@ -38,11 +39,12 @@
 }
 
 .cards {
-    margin: 400px;
+    margin: 40px;
     border: 1px solid gray;
     display: flex;
     justify-content: space-around;
-    
+    margin-bottom: 0;
+    margin-top: 0;
 }
 
 .ttt {
